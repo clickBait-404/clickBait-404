@@ -41,7 +41,6 @@ I build across the stack — from clean interfaces and APIs to databases, authen
 <img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
 <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
 <img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
 <img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
