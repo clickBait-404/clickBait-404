@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,50:F472B6,100:DB2777&text=HIMANSHU%20YADAV&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0EA5E9,50:6366F1,100:8B5CF6&text=HIMANSHU%20YADAV&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -13,10 +13,6 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/himanshu-yadav-a4a956289">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/YOUR-LEETCODE-ID/">
-<img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116"/>
 </a>
 &nbsp;
 <a href="mailto:himanshuyadav5838@gmail.com">
