@@ -107,15 +107,3 @@ I build across the stack — from clean interfaces and APIs to databases, authen
 </div>
 
 ---
-
-
-
-### Currently Building · Learning · Shipping
-
-<br/>
-
-<a href="mailto:himanshuyadav5838@gmail.com">
-<img src="https://img.shields.io/badge/let's%20connect-38BDF8?style=flat-square&logoColor=white"/>
-</a>
-
-</div>
