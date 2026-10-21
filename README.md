@@ -58,11 +58,8 @@ I build across the stack — from clean interfaces and APIs to databases, authen
 ### Backend & Databases
 <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
 <img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688"/>
-<img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
 <img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DD0031"/>
 
 <br/>
