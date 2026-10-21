@@ -1,24 +1,153 @@
-# 💫 About Me:
-🔭 I’m currently working on **Full-Stack Development & AI-powered projects**<br>👯 I’m looking to collaborate on **Web Development & AI projects**<br>🤝 I’m looking for help with **Advanced System Design, Backend Development & Scalable Applications**<br>🌱 I’m currently learning **Data Structures & Algorithms,  AI**<br>💬 Ask me about **C++,JavaScript, React, Node.js, REST APIs, Databases & DSA**<br>⚡ Fun fact: **I enjoy turning ideas into real-world projects and continuously learning new technologies.**<br>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:FBCFE8,50:F472B6,100:DB2777&text=HIMANSHU%20YADAV&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+
+<br/>
+
+### Building products, Learning systems, Shipping ideas.
+<br/>
+
+<a href="https://github.com/clickBait-404">
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/YOUR-LEETCODE-ID/">
+<img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116"/>
+</a>
+&nbsp;
+<a href="mailto:himanshuyadav5838@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=clickBait-404&label=Profile%20Views&color=38BDF8&style=flat-square"/>
+
+</div>
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshuyadav5838@gmail.com) 
+## About
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=clickBait-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=clickBait-404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=clickBait-404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a Computer Science student at VIT who enjoys turning ideas into working software.</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=clickBait-404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I build across the stack — from clean interfaces and APIs to databases, authentication, deployment and cloud infrastructure.
+Currently exploring **backend architecture, cloud systems, practical AI and DSA.**
+
+## 💼 Experience
+
+**Software Engineering Intern, AI/ML — MPOnline Limited** · May 2026 – Jul 2026
+- Built NumPy/Pandas data pipelines to clean and feature-engineer 20,000 healthcare records.
+- Benchmarked 8+ supervised and unsupervised models with hyperparameter tuning and PCA.
+- Reached 94% classification accuracy by optimizing the top-performing model.
+
+## 🚀 Projects
+
+**GreenCart — Multi-Vendor E-Commerce** · React, Node.js, Express, MongoDB
+- Buyer checkout and vendor portal, 10+ JWT-secured REST endpoints, indexed and paginated product queries, Razorpay webhooks, deployed on Vercel.
+
+**Vizora — AI Floor Plan Visualizer** · React, React Router, Puter.js
+- Turns 2D blueprints into textured 3D room views in under 15 seconds, with 25MB upload validation and a before/after slider.
+
+## 🎓 Education & Certifications
+
+- **B.Tech CSE, Vellore Institute of Technology** · CGPA 8.79 · May 2027
+- **AWS Certified Cloud Practitioner** · Sept 2025
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+### Languages & Core
+<img src="https://img.shields.io/badge/C++-111827?style=flat-square&logo=cplusplus&logoColor=00599C"/>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/SQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=1572B6"/>
+
+<br/>
+
+### Frontend Development
+<img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-111827?style=flat-square&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4"/>
+
+<br/>
+
+### Backend & Databases
+<img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express.js-111827?style=flat-square&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688"/>
+<img src="https://img.shields.io/badge/JWT-111827?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/Redis-111827?style=flat-square&logo=redis&logoColor=DD0031"/>
+
+<br/>
+
+### Cloud & Developer Tools
+<img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF"/>
+
+</div>
+
+## 📈 Github
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=clickBait-404&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=00000000&title_color=E5E7EB&text_color=94A3B8&icon_color=38BDF8" height="165"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=clickBait-404&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=E5E7EB&text_color=94A3B8" height="165"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=clickBait-404&hide_border=true&background=00000000&ring=38BDF8&fire=38BDF8&currStreakLabel=E5E7EB&sideLabels=94A3B8&dates=64748B&currStreakNum=E5E7EB&sideNums=E5E7EB" width="70%"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=clickBait-404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🟩 Contribution Heatmap
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clickBait-404&theme=github_dark" width="95%"/>
+
+</div>
+
+---
+
+## 📊 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=clickBait-404&bg_color=00000000&color=94A3B8&line=38BDF8&point=E5E7EB&area_color=0EA5E9&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Currently Building · Learning · Shipping
+
+<br/>
+
+<a href="mailto:himanshuyadav5838@gmail.com">
+<img src="https://img.shields.io/badge/let's%20connect-38BDF8?style=flat-square&logoColor=white"/>
+</a>
+
+</div>
