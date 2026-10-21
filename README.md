@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
+<a href="https://www.linkedin.com/in/himanshu-yadav-a4a956289">
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;
@@ -33,30 +33,9 @@
 
 <div align="center">
 
-I'm a Computer Science student at VIT who enjoys turning ideas into working software.</div>
+I'm a Computer Science student who enjoys turning ideas into working software.</div>
 
 I build across the stack — from clean interfaces and APIs to databases, authentication, deployment and cloud infrastructure.
-Currently exploring **backend architecture, cloud systems, practical AI and DSA.**
-
-## 💼 Experience
-
-**Software Engineering Intern, AI/ML — MPOnline Limited** · May 2026 – Jul 2026
-- Built NumPy/Pandas data pipelines to clean and feature-engineer 20,000 healthcare records.
-- Benchmarked 8+ supervised and unsupervised models with hyperparameter tuning and PCA.
-- Reached 94% classification accuracy by optimizing the top-performing model.
-
-## 🚀 Projects
-
-**GreenCart — Multi-Vendor E-Commerce** · React, Node.js, Express, MongoDB
-- Buyer checkout and vendor portal, 10+ JWT-secured REST endpoints, indexed and paginated product queries, Razorpay webhooks, deployed on Vercel.
-
-**Vizora — AI Floor Plan Visualizer** · React, React Router, Puter.js
-- Turns 2D blueprints into textured 3D room views in under 15 seconds, with 25MB upload validation and a before/after slider.
-
-## 🎓 Education & Certifications
-
-- **B.Tech CSE, Vellore Institute of Technology** · CGPA 8.79 · May 2027
-- **AWS Certified Cloud Practitioner** · Sept 2025
 
 ## 🛠️ Tech Stack
 
