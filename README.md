@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;
+<a href="https://leetcode.com/u/Himanshu_07_/">
+<img src="https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116"/>
+</a>
+&nbsp;
 <a href="mailto:himanshuyadav5838@gmail.com">
 <img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=EA4335"/>
 </a>
