@@ -72,7 +72,6 @@ I build across the stack — from clean interfaces and APIs to databases, authen
 <br/>
 
 ### Cloud & Developer Tools
-<img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=FFFFFF"/>
@@ -109,17 +108,7 @@ I build across the stack — from clean interfaces and APIs to databases, authen
 
 ---
 
-## 📊 Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=clickBait-404&bg_color=00000000&color=94A3B8&line=38BDF8&point=E5E7EB&area_color=0EA5E9&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
 
 ### Currently Building · Learning · Shipping
 
